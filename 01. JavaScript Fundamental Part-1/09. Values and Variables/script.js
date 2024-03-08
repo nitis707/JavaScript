@@ -50,3 +50,16 @@ let job1 = "Programmer";
 let job2 = "Teacher";
 
 console.log(myFirstJob);
+
+/* Practice Assignmet 
+
+Declare variables called country, continent and population and assign their values according to your own country (population in millions).
+
+Log their values to the console.
+
+*/
+let country = "India";
+let continent = "Asia";
+let population = "1.4 Billion";
+
+console.log("Country - " + country + "\nContinent - " + continent + "\nPopulation - " + population);
