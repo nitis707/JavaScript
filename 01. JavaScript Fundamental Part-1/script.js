@@ -1,4 +1,4 @@
-/*
+/* To show alert on the page
 
 let js = "amazing";
 if (js === "amazing") {
