@@ -28,4 +28,11 @@ console.log(firstName + " " + lastName);
 let first_name = "Nitish";
 let first_name_person = "Nitish";
 
-/* We cannot create a variable start with a number like this 3years = 3; because it is illegal in JavaScript */
+/* We cannot create a variable start with a number like this 3years = 3; because it is illegal in JavaScript. Variable only contains Letters, Numbers, underscores, or the $dollar sign. */
+let v1ariables1_$ = "This is the legal variable";
+
+/* We cannot create a variable using Reserves keywords in JavaScript
+
+let new = 21; - It will give error
+*/
+
