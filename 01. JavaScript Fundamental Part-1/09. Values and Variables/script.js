@@ -36,3 +36,17 @@ let v1ariables1_$ = "This is the legal variable";
 let new = 21; - It will give error
 */
 
+/* We can create a variable using _ and $ */
+let _firstName = "Nitish";
+let $dollar = 100;
+
+/* If we create a variable with all UPPER CASE when the values is constant. */
+let PI = 3.1415;
+
+let myFirstJob = "Programmer";
+let myCurrentJob = "Teacher";
+
+let job1 = "Programmer";
+let job2 = "Teacher";
+
+console.log(myFirstJob);
