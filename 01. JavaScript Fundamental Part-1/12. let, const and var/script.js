@@ -19,3 +19,11 @@ console.log(job);
 /* We can simply create a variable without declare it. */
 withoutDeclareVariable = "35";
 console.log(withoutDeclareVariable);
+
+/* Output:
+
+2003
+Teacher
+35
+
+*/

@@ -63,3 +63,18 @@ let continent = "Asia";
 let population = "1.4 Billion";
 
 console.log("Country - " + country + "\nContinent - " + continent + "\nPopulation - " + population);
+
+
+/* Output:
+
+JavaScript is Fun!
+Result = 61
+Nitish
+21
+Nitish Singh
+Programmer
+Country - India
+Continent - Asia        
+Population - 1.4 Billion
+
+*/

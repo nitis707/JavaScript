@@ -45,3 +45,20 @@ console.log("x--: " + x);
 console.log("Age of Nitish is " + ageNitis + " greater than " + "Sarah " + ageSarah + " =", ageNitis > ageSarah);
 
 console.log(ageSarah >= 18);
+
+/* Output:
+
+Age: 21
+Age of Nitis: 21 
+Age of Sarah: 24 
+42 2.4 8
+Nitish Singh     
+x: 15
+x += 10: 25      
+x *= 4: 100      
+x++: 101
+x--: 100
+Age of Nitish is 21 greater than Sarah 24 = false
+true
+
+*/

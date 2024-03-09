@@ -37,3 +37,17 @@ console.log("Variable type: " + typeof year + ", " + "Year: " + year);
 
 null;
 console.log(typeof null);
+
+/* Output:
+
+First Name: Nitish
+true
+string
+number
+Replaced First Name: Nikhil      
+undefined
+undefined
+Variable type: number, Year: 2003
+object
+
+*/
