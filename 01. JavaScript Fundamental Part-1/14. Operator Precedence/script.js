@@ -10,3 +10,11 @@ console.log(x, y);
 
 const averageAge = (ageNitis + agePriya) / 2;
 console.log(ageNitis, agePriya, averageAge);
+
+/* Output:
+
+true
+10 10
+34 37 35.5
+
+*/
