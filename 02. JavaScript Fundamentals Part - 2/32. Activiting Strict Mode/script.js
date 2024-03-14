@@ -5,3 +5,24 @@ JavaScript's strict mode is a way to opt in to a restricted variant of JavaScrip
 */
 
 "use strict";
+
+let hasDriveresLicense = false;
+const passTest = true;
+
+if (passTest) {
+    hasDriveresLicense = true;
+}
+
+if (hasDriveresLicense) {
+    console.log("I can drive!");
+}
+
+/* Output:
+
+I can drive!
+
+*/
+
+// Here both variables interface and private are reserved keywords in JavaScript.
+// const interface = "Audio";
+// const private = 534; 
